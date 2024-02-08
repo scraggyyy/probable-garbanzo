@@ -1,2 +1,3 @@
-Installation on IIS
-------------------------------
+Instructions for deploying this site to the server 
+------------------------------------
+Lorem ipsum 
